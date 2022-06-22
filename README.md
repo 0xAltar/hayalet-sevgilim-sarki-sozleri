@@ -245,6 +245,8 @@ elixir main.exs
 - [Java](./java/)
 - [SQL](./sql/)
 - [Elixir](./elixir/)
+- [Kotlin](./kotlin/)
+- [Solidity](./Solidity/)
 
 ## Yol Haritası
 
