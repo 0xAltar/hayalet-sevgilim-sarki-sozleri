@@ -248,6 +248,7 @@ elixir main.exs
 - [Kotlin](./kotlin/)
 - [Solidity](./Solidity/)
 
+
 ## Yol Haritası
 
 - PHP, Ruby gibi diğer kalan diller için de modüller oluşturulabilir.
